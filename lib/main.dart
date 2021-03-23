@@ -34,6 +34,8 @@ class _SplashScreenState extends State<SplashScreen> {
       body: Center(
         child: Lottie.asset("assets/thevines.json"),
       ),
+      backgroundColor: Color(0xFF3F1A1A),
     );
   }
 }
+
